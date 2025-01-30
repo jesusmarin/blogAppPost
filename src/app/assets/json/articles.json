@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "Mi primer artículo",
+    "fecha_publicacion": "2023-11-23",
+    "autor": "Juan Pérez",
+    "contenido": {
+      "subtitulos": [
+        {
+          "texto": "Introducción",
+          "parrafos": [
+            {
+              "textos": [
+                {
+                  "contenido": "<p>Este es el primer párrafo del artículo. <strong>¡Hola mundo!</strong></p>"
+                }
+              ],
+              "imagenes": [
+                {
+                  "src": "assets/images/imagen1.jpg",
+                  "alt": "Imagen descriptiva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Artículo sobre Angular",
+    "fecha_publicacion": "2024-01-01",
+    "autor": "María García",
+    "contenido": {
+    }
+  }
+]
